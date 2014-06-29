@@ -1,0 +1,5 @@
+dayo_blog:
+    resource: "@DayoBlogBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
