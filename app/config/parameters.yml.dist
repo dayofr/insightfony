@@ -12,7 +12,7 @@ parameters:
     mailer_password:   ~
 
     locale:            en
-    secret:            ThisTokenIsNotSoSecretChangeIt
+    secret:            JHGF23456jhgfKJHGAZQSDfyghjkhhdg76543456
 
     debug_toolbar:          true
     debug_redirects:        false
